@@ -1,0 +1,108 @@
+\begin{longtable}{lll}
+\caption{Papers Selected} \\
+\toprule
+title & author & year \\
+\midrule
+\endfirsthead
+\caption[]{Papers Selected} \\
+\toprule
+title & author & year \\
+\midrule
+\endhead
+\midrule
+\multicolumn{3}{r}{Continued on next page} \\
+\midrule
+\endfoot
+\bottomrule
+\endlastfoot
+A conceptual model of user experience in scrum practice & Kikitamara, Sesaria and Noviyanti, Anastasia Ary & 2018 \\
+A framework to measure User eXperience of interactive online products & Schulze, Katrin and Krömker, Heidi & 2011 \\
+A lean UX approach for the engineering user interfaces in the Square Kilometre Array project & Alberti, V. and Brajnik, G. & 2020 \\
+A methodology for integrating user experience methods and techniques into agile software development & Hinderks, Andreas & 2019 \\
+A Process to Support the Remote Tree Testing Technique for Evaluating the Information Architecture of User Interfaces in Software Projects & Tapia, Alejandro and Moquillaza, Arturo and Aguirre, Joel and Falconi, Fiorella and Lecaros, Adrian and Paz, Freddy & 2022 \\
+A usability-pattern-based requirements-analysis method to bridge the gap between user tasks and application features & Lee, Sang-Hyun and Ko, In-Young and Kang, Sungwon and Lee, Dan-Hyung & 2010 \\
+A User Experience Design Process in Mobile Applications Prototypes: A Case Study & Carvalhido, Afonso and Novo, Rita and Faria, Pedro Miguel and Curralo, Ana & 2022 \\
+Adoption of UX evaluation in practice: An action research study in a software organization & Bang, Kristine and Kanstrup, Martin Akto and Kjems, Adam and Stage, Jan & 2017 \\
+Agile and UX: The road to integration-The challenges of the UX practitioner in an agile environment & Meingast, Melissa and Packard, Hewlett and Ballew, Timothy and Edwards, Rochelle and Nordquist, Eric and Sader, Christopher and Smith, Danielle & 2013 \\
+Agile beeswax: Mobile app development process and empirical study in real environment & Al-Rabaiah, Hazem A. and Medina-Medina, Nuria & 2021 \\
+Agile development and UX design: Towards understanding work cultures to support integration & Ferreira, Jennifer & 2012 \\
+Agile human centered methodologies to develop educational software; [Metodologías ágiles centradas en personas para desarrollar software educativo] & González-González, Carina S. and Toledo-Delgado, Pedro and Muñoz-Cruz, Vanesa & 2015 \\
+Agile software development and UX design: A case study of integration by mutual adjustment & Persson, John Stouby and Bruun, Anders and Lárusdóttir, Marta Kristín and Nielsen, Peter Axel & 2022 \\
+Agile user experience design: A design science enquiry & Adikari, Sisira and McDonald, Craig and Campbell, John & 2013 \\
+Agile user experience development in a large software organization: Good expertise but limited impact & Kuusinen, Kati and Mikkonen, Tommi and Pakarinen, Santtu & 2012 \\
+Agile UX: Integrating good UX development practices in Agile & Pillay, Narendren and Wing, Jeanette & 2019 \\
+AGILEUX model: Towards a reference model on integrating UX in developing software using agile methodologies & Peres, Angela Lima and Da Silva, Tiago Silva and Silva, Fernando Selleri and Soares, Felipe Furtado and De Carvalho, Carlos Rosemberg Maia and De Lemos Meira, Silvio Romero & 2014 \\
+An Approach to Design and Develop UX/UI for Smartphone Applications of Minority Ethnic Group & Alam, Tanvir and Hamid, Md Montaser and Rabbi, Md Forhad & 2019 \\
+Applying lean startup: An experience report - Lean & lean UX by a UX veteran: Lessons learned in creating & launching a complex consumer app & May, Beverly & 2012 \\
+Approaches to manage the user experience process in Agile software development: A systematic literature review & Hinderks, Andreas and Domínguez Mayo, Francisco José and Thomaschewski, Jörg and Escalona, María José & 2022 \\
+Are software companies aware of UX? & Ardito, C. and Buono, P. and Costabile, M.F. and Lanzilotti, R. & 2012 \\
+Are ux evaluation methods providing the same big picture? & Nakamura, Walter Takashi and Ahmed, Iftekhar and Redmiles, David and Oliveira, Edson and Fernandes, David and de Oliveira, Elaine H. T. and Conte, Tayana & 2021 \\
+Assessment model for HCI practice maturity in small and medium sized software development companies & Ogunyemi, Abiodun and Lamas, David and Stage, Jan and Lárusdóttir, Marta & 2017 \\
+Beyond Utility and Usability: Towards Affectability in Agile Software Requirements Engineering & Kamthan, Pankaj and Shahmir, Nazlie & 2018 \\
+Coordination support for integrating user centered design in distributed agile projects & Almughram, Ohoud and Alyahya, Sultan & 2017 \\
+Design Thinking and Agility in Digital Production: The Key Role of User Experience Design & Chouki, Mourad and Mozota, Brigitte Borja de and Kallmuenzer, Andreas and Kraus, Sascha and Dabic, Marina & 2021 \\
+Design thinking in a nutshell for eliciting requirements of a business process: A case study of a design thinking workshop & Levy, Meira and Huli, Chen & 2019 \\
+Developing UX for collaborative mobile prototyping & Hastreiter, Isabella and Krause, Sascha and Schneidermeier, Tim and Wolff, Christian & 2014 \\
+Digital transformation: A quality model based on iso 25010 and user experience & Debnath, Narayan and Peralta, Mario and Salgado, Carlos and Baigorria, Lorena and Riesco, Daniel and Montejano, Germán and Mazzi, Mouna & 2021 \\
+Effective user stories are affective & Kamthan, Pankaj and Shahmir, Nazlie & 2017 \\
+ELDIARY: A Digital Diary Mobile Application Integrated with Emotion Recognition for Elderly & Yap, Mohamad Yusairi Yusuf and Zainal, Azaliza and Ahmad, Nahdatul Akma & 2021 \\
+Employing UX processes for more focused development in research projects & Kolbeinsson, Ari and Lindblom, Jessica and Thorvald, Peter & 2020 \\
+Enhancing decision-making in user-centered web development: a methodology for card-sorting analysis & Macías, José A. and Culén, Alma L. & 2021 \\
+Evaluation and Improvement of User Interface for Online Passport Service Application using User Centered Design Approach & Mizalfi, Rafly and Gandhi, Arfive and Adrian, Monterico & 2022 \\
+Evidence-Based Timelines for User eXperience Software Process Improvement Retrospectives & Kashfi, Pariya and Feldt, Robert and Nilsson, Agneta and Svensson, Richard Berntsson & 2016 \\
+Exploring UX Maturity in Software Development Environments in Saudi Arabia & Alhadreti, Obead & 2020 \\
+GamiDOC: A Tool for Designing and Evaluating Gamified Solutions & Bassanelli, Simone and Bucchiarone, Antonio & 2022 \\
+How to make agile UX work more efficient: Management and sales perspectives & Kuusinen, Kati and Väänänen-Vainio-mattila, Kaisa & 2012 \\
+Impact of Human-Centered Design Process (HCDP) on Software Development Process & Farooqui, Tayba and Rana, Tauseef and Jafari, Fakeeha & 2019 \\
+Inclusive educational software design with agile approach & González, Carina S. and Toledo, Pedro and Muñoz, Vanesa and Noda, María A. and Bruno, Alicia and Moreno, Lorenzo & 2013 \\
+Integrating Good UX Development Practices in Solo Agile & Kusuma, Wahyu Andhyka and Bin Jantan, Azrul Hazri and Bin Abdullah, Rusli and Admodisastro, Novia Indriaty and Norowi, Noris Binti Mohd & 2022 \\
+Integrating User Experience into Agile : An Experience Report on Lean UX and Scrum & Alhammad, Manal M. and Moreno, Ana M. & 2022 \\
+Integrating User Experience into Agile: An Experience Report on Lean UX and Scrum & Alhammad, Manal M. and Moreno, Ana M. & 2022 \\
+Integrating user eXperience practices into software development processes: Implications of the UX characteristics & Kashfi, Pariya and Nilsson, Agneta and Feldt, Robert & 2017 \\
+Integrating UX principles and practices into software development organizations: A case study of influencing events & Kashfi, Pariya and Feldt, Robert and Nilsson, Agneta & 2019 \\
+Integrating UX with scrum in an undergraduate software development project & Felker, Chase and Slamova, Radka and Davis, Janet & 2012 \\
+Integrating UX work with agile development through user stories: An action research study in a small software company & Ananjeva, Alisa and Persson, John Stouby and Bruun, Anders & 2020 \\
+Investigating Problem Definition and End-User Involvement in Agile Projects that Use Lean Inceptions & Ferreira, Bruna and Kalinowski, Marcos and Gomes, Marcos Vinicius De Carvalho and Marques, Marcelo Cardoso and Lopes, Hélio and Barbosa, Simone D.J. & 2022 \\
+Kano-QFD-based analysis of the influence of user experience on the design of handicraft intangible cultural heritage apps & Li, Jia and Kim, KieSu & 2023 \\
+Lean User Research for Agile Organizations & Schon, Eva-Maria and Thomaschewski, Jorg and Escalona, Maria Jose & 2020 \\
+MAX: A method for evaluating the post-use user eXperience through cards and a board & Cavalcante, Emanuelle and Rivero, Luis and Conte, Tayana & 2015 \\
+Netnography Approach for UX Research & Hussein, Idyawati and Mahmud, Murni and Md Noor, Nor Laila & 2016 \\
+Overcoming Challenges in Agile User Experience Work: Cross-Case Analysis of Two Large Software Organizations & Kuusinen, Kati & 2015 \\
+Prototyping Usability and User Experience: A Simple Technique to Agile Teams & de Oliveira Sousa, Aline and Valentim, Natasha Malveira Costa & 2019 \\
+Quantified UX: Towards a common organizational understanding of user experience & Lachner, Florian and Naegelein, Philippd and Kowalski, Robert and Spann, Martin and Butz, Andreas & 2016 \\
+Specification of a UX process reference model towards the strategic planning of UX activities & Kieffer, Suzanne and Rukonic, Luka and de Meerendré, Vincent Kervyn and Vanderdonckt, Jean & 2019 \\
+Strategies for strengthening UX competencies and cultivating corporate UX in a large organisation developing robots & Nielsen, Sara and Ordoñez, Rodrigo and Skov, Mikael B. and Jochum, Elizabeth & 2023 \\
+Suggestion for Collaboration-Based UI/UX Development Model through Risk Analysis & Cho, Seong-Hwan and Kim, Seung-Hee & 2020 \\
+Task allocation between ux specialists and developers in agile software development projects & Kuusinen, Kati & 2015 \\
+The big picture of UX is missing in scrum projects & Lárusdóttir, Marta Kristín and Cajander, Åsa and Gulliksen, Jan & 2012 \\
+The Current State of Measuring Return on Investment in User Experience Design & Chawana, Trevor and Adebesin, Funmi & 2021 \\
+The Development of One Stop Service Online System Based on User Experience Design and AGILE Method & Sriarunrasmee, Jaemjan and Anutariya, Chutiporn & 2020 \\
+The evolution of agile UXD & Tiago Silva {Da Silva} and Milene Selbach Silveira and Frank Maurer and Fábio Fagundes Silveira & 2018 \\
+The Human Side of Software as a Service: Building a Tighter Fit between Human Experiences and SOA Design Practices & Karaseva, Victoria and Seffah, Ahmed & 2015 \\
+The knowledge of human-computer interaction (HCI) and user experience design (UXD) in malaysia: An analysis of the characteristics of an HCI-focused conference & Hussein, Idyawati and Hussain, Azham and Mkpojiogu, Emmanuel O. C. and Nathan, Shelena Soosay and Zaaba, Zarul Fitri & 2019 \\
+Towards a framework that promotes integration between the UX design and SCRUM, Aligned to CMMI & Peres, Angela Lima and Meira, Silvio Lemos & 2015 \\
+Towards an agile user experience virtual assistant and management platform & Patterson, M. and Bond, R. and Mulvenna, M. and Reid, C. and McMahon, F. and McGowan, P. and McGarry, J. and Cormican, H. & 2017 \\
+Towards an Approach Matching CMD and DSR to Improve the Academia-Industry Software Development Partnership: A Case of Agile and UX Integration & Choma, Joelma and Zaina, Luciana A.M. and Da Silva, Tiago Silva & 2015 \\
+Towards Measuring User Experience based on Software Requirements & Atoum, Issa and Almalki, Jameel and Alshahrani, Saeed Masoud and Shehri, Waleed Al & 2021 \\
+Usability and user experience evaluation of natural user interfaces: A systematic mapping study & Guerino, Guilherme Corredato and Valentim, Natasha Malveira Costa & 2020 \\
+User experience and usability in agriculture-selected aspects for design systems & Novák, Jakub Štěpán and Masner, Jan and Vaněk, Jiří and Šimek, Pavel and Hennyeyová, Klára & 2019 \\
+User experience design and agile development: Managing cooperation through articulation work & Ferreira, Jennifer and Sharp, Helen and Robinson, Hugh & 2011 \\
+User experience design goes agile in lean transformation - A case study & Isomursu, Minna and Sirotkin, Andrey and Voltti, Petri and Halonen, Markku & 2012 \\
+User experience design in software product lines & Harutyunyan, Nikolay and Riehle, Dirk & 2019 \\
+User Experience for Model-Driven Engineering: Challenges and Future Directions & Abrah\~{a}o, Silvia and Bordeleau, Francis and Cheng, Betty and Kokaly, Sahar and Paige, Richard F. and St\"{o}rrle, Harald and Whittle, Jon & 2017 \\
+User experience in mobile augmented reality: Emotions, challenges, opportunities and best practices & Dirin, Amir and Laine, Teemu H. & 2018 \\
+User eXperience Management from Early Stages of Computer Game Development & Mitre-Hernandez, Hugo and Lara-Alvarez, Carlos and Gonzalez-Salazar, Mario and Mejia-Miranda, Jezreel and Martin, Diego & 2016 \\
+User-centered approaches in software development processes: Qualitative research into the practice of Hungarian companies & Szabó, Bálint and Hercegfi, Károly & 2023 \\
+User-centric design and evolvable architecture for science gateways: A case study & Marru, Suresh and Kuruvilla, Tanya and Abeysinghe, Eroma and McMullen, Donald and Pierce, Marlon and Morgan, David Gene and Tait, Steven L. and Innes, Roger W. & 2021 \\
+Using agile software development methods to support human-centered design & Nakao, Yusuke and Moriguchi, Masakazu and Noda, Hisashi & 2014 \\
+Using Lean Personas to the Description of UX-related Requirements: A Study with Software Startup Professionals & Teixeira, Gabriel V. and Zaina, Luciana A.M. & 2022 \\
+UX design in agile: A DSDM case study & Plonka, Laura and Sharp, Helen and Gregory, Peggy and Taylor, Katie & 2014 \\
+UX in agile projects: Taking stock after 12 years & McInerney, Paul & 2017 \\
+UX information in the daily work of an agile team: A distributed cognition analysis & Zaina, Luciana A.M. and Sharp, Helen and Barroca, Leonor & 2021 \\
+UX Requirements Matters: Guidelines to Support Software Teams on the Writing of Acceptance Criteria & Martinelli, Su\'{e}llen and Nascimento, Nicolas and Souza, Jonathan and Sales, Afonso and Zaina, Luciana & 2022 \\
+UX Research in the Software Industry: an investigation of Long-Term UX practices & Martinelli, Suéllen and Lopes, Larissa and Zaina, Luciana & 2022 \\
+UX Work in Software Start-Ups: Challenges from the Current State of Practice & Silveira, Sofia A. M. and Choma, Joelma and Pereira, Roberto and Guerra, Eduardo M. and Zaina, Luciana A. M. & 2021 \\
+UX work in software startups: A thematic analysis of the literature & Saad, Jullia and Martinelli, Suéllen and Machado, Leticia S. and de Souza, Cleidson R.B. and Alvaro, Alexandre and Zaina, Luciana & 2021 \\
+UXUP - User eXperience Centric Unified Process & Nasiri, Azi and Sadler, Hamish & 2018 \\
+What do software startups need from UX work? & Zaina, Luciana and Choma, Joelma and Saad, Jullia and Barroca, Leonor and Sharp, Helen and Machado, Leticia and de Souza, Cleidson R. B. & 2023 \\
+\end{longtable}
