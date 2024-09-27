@@ -1,3 +1,5 @@
+#arquivo gerado utilizando 'artigos.xlsx' como base 
+
 \begin{longtable}{lll}
 \caption{Papers Selected} \\
 \toprule
