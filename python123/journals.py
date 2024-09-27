@@ -2,7 +2,7 @@ import pandas as pd
 
 # Carregue seus dados, substitua 'seu_arquivo.csv' pelo caminho do seu arquivo
 # e 'nome_da_coluna' pelo nome da coluna que contém os nomes dos journals
-df = pd.read_excel('/home/astro/python123/artigos12.xlsx')
+df = pd.read_excel('artigos12.xlsx')
 
 # Contar o número de ocorrências de cada journal
 journal_counts = df['journal'].value_counts()
